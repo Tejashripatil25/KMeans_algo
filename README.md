@@ -10,6 +10,8 @@ K-means clustering requires us to select K, the number of clusters we want to gr
 
 The elbow method lets us graph the inertia (a distance-based metric) and visualize the point at which it starts decreasing linearly. This point is referred to as the "eblow" and is a good estimate for the best value for K based on our data.
 
+![291115_162021840849778](https://github.com/Tejashripatil25/KMeans_algo/assets/124791646/30c87444-d189-44d6-ba6c-937eea7287d9)
+
 ### Inertia
 
 Inertia is not a normalized metric.
